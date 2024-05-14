@@ -45,3 +45,6 @@ To run the application:
 
 ### Author
 - Aditya Roy
+
+## Screenshot
+![ScreenShot](https://raw.githubusercontent.com/codenamecypher/parking-spot-manager/main/GUI%20Screenshot.png)
